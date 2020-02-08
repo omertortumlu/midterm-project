@@ -1,0 +1,11 @@
+2 veriseti bulunmaktadýr.
+
+SMIDS(Sperm Morphology Image Data Set) (Ýranlýlar tarafýndan oluþturulmuþtur)
+5 cross-fold þeklindedir 15000 görselden oluþmaktadýr.
+
+HuSHeM(Human Sperm Head Morphology (Çapa týp fakültesi tarafýndan oluþturulmuþtur)
+5 cross-fold þeklindedir 1080 görselden oluþmaktadýr.
+
+Verisetleri boyutlarý büyük olduðu için cloud a yüklenmiþtir. 
+
+https://drive.google.com/drive/folders/1JmtY57tSh_rTOv18YqfwpOsPvcAl87oN?usp=sharing
