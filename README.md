@@ -15,6 +15,7 @@ Arayüzün çalışması için aşağıdaki program ve sınıfların ortamda bul
 
 ->Python version 3.7
 Aşağıdaki sınıflar pip install ile powershell veya komut istemcisinden pythona import edilmeli
+	
 	import cv2
 	import tensorflow as tf
 	import os
