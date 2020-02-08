@@ -36,7 +36,3 @@ Aşağıdaki sınıflar pip install ile powershell veya komut istemcisinden pyth
 Aşağıdaki sınıflar arayüzde bulunmalı.
 	from PyQt5 import QtCore, QtGui, QtWidgets
 	from PyQt5.QtWidgets import QFileDialog
-
-->Arayüz çalıştırılırken bulunan dizine gidilir powershell üzerinden (python Application.py) komutu ile çalıştırılır.
-
-->Raporu çalıştırmak için https://www.overleaf.com/ üzerinde hesap oluşturulur. .rar uzantılı Latex dosyası sisteme yüklenerek rapor çalıştırılır.
