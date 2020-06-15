@@ -29,10 +29,12 @@ Aşağıdaki sınıflar pip install ile powershell veya komut istemcisinden pyth
 	import keras
 
 
-->PyQt5 Arayüz geliştirici (designer)
+PyQt5 Arayüz geliştirici (designer)
 Aşağıdaki sınıflar arayüzde bulunmalı.
-	from PyQt5 import QtCore, QtGui, QtWidgets
-	from PyQt5.QtWidgets import QFileDialog
+
+>from PyQt5 import QtCore, QtGui, QtWidgets
+
+>from PyQt5.QtWidgets import QFileDialog
 <p align="center">
 
   <img src="https://github.com/omertortumlu/Midterm-Project/blob/master/firstpage.png" title="Uygulama Arayüzü" alt="accessibility text">
