@@ -1,4 +1,4 @@
-# bilgisayarAraProjesi
+# Bilgisayar Ara Projesi
 Erkek Üreme Hücre Morfolojilerinin Derin Öğrenme ile Sınıflandırılması
 
 ->Veriseti ve arayüz yüksek boyutta olduğu için cloud a yüklenmiştir aşşağıdaki likten ulaşılabilir.
