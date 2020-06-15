@@ -21,16 +21,9 @@ Aşağıdaki sınıflar pip install ile powershell veya komut istemcisinden pyth
 	import os
 	import numpy as np
 	import matplotlib.pyplot as plt
-
 	import skimage.io as io
-	from skimage.transform import resize
-	from skimage.io import imread
 	import keras
-	from keras.metrics import categorical_crossentropy
-	from keras.models import model_from_json
-	from keras.models import load_model
-	from keras.optimizers import SGD, Adam, Adamax
-	from keras.preprocessing import image
+
 
 ->PyQt5 Arayüz geliştirici (designer)
 Aşağıdaki sınıflar arayüzde bulunmalı.
