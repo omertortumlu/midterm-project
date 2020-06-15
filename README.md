@@ -1,7 +1,7 @@
 # Bilgisayar Ara Projesi
 Erkek Üreme Hücre Morfolojilerinin Derin Öğrenme ile Sınıflandırılması
 
->Veriseti ve arayüz yüksek boyutta olduğu için cloud a yüklenmiştir <a href="https://drive.google.com/drive/folders/1JmtY57tSh_rTOv18YqfwpOsPvcAl87oN?usp=sharing" target="_blank">Link</a> 'ten ulaşılabilir.
+>Veriseti ve arayüz büyük boyutta olduğu için drive a yüklenmiştir <a href="https://drive.google.com/drive/folders/1JmtY57tSh_rTOv18YqfwpOsPvcAl87oN?usp=sharing" target="_blank">Link</a> 'ten ulaşılabilir.
 
 
 >Verisetleri ve Colab_15011091_16011110.ipynb Google Drive da (Proje) isimli dosyanın altına alınır.
